@@ -1,2 +1,2 @@
-# Setup Notes:
+# Lesson 01 Notes:
     - Note one
